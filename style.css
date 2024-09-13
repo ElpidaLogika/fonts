@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Mistral';
+    src: url('font/mistral.ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
