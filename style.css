@@ -1,9 +1,11 @@
 @font-face {
     font-family: 'Mistral';
     src: url('font/mistral.ttf');
+}
 
+@font-face {
     font-family: 'Miama Nueva';
-    src: url('font/miamanueva.ttf')
+    src: url('font/miamanueva.ttf');
 }
 
 * {
