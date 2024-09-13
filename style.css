@@ -47,12 +47,16 @@ footer {
     height: 10vh;
     background: #fff;
     width: 100%;
+    position: fixed;
+    top: 93vh;
+    font-size: 0.6em;
+    text-align: center;
 }
 
 p {
-    font-size: 1.8em;
+    font-size: 1.4em;
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 1.8em;
 }
